@@ -1,2 +1,2 @@
 <h1> hsinxko </h1>
-<p> <b> To walk among their joys, and stand guard... over the everglowing lanterns. </b> </p>
+<p> <b> 세상을 이롭게 하리라 </b> </p>
